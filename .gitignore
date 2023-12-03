@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Xcode
+*.pbxuser
+*.xccheckout
+project.xcworkspace
+xcuserdata
+DerivedData
+
+# Node
+node_modules
+npm-debug.log
+
+# MongoDB
+mongod.lock
